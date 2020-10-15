@@ -1,0 +1,37 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/siragam/Documents/AndroidApp/MyAppSQLDelight/shared/src/androidMain/AndroidManifest.xml:2:1-131
+INJECTED from /Users/siragam/Documents/AndroidApp/MyAppSQLDelight/shared/src/androidMain/AndroidManifest.xml:2:1-131
+INJECTED from /Users/siragam/Documents/AndroidApp/MyAppSQLDelight/shared/src/androidMain/AndroidManifest.xml:2:1-131
+INJECTED from /Users/siragam/Documents/AndroidApp/MyAppSQLDelight/shared/src/androidMain/AndroidManifest.xml:2:1-131
+INJECTED from /Users/siragam/Documents/AndroidApp/MyAppSQLDelight/shared/src/androidMain/AndroidManifest.xml:2:1-131
+INJECTED from /Users/siragam/Documents/AndroidApp/MyAppSQLDelight/shared/src/androidMain/AndroidManifest.xml:2:1-131
+INJECTED from /Users/siragam/Documents/AndroidApp/MyAppSQLDelight/shared/src/androidMain/AndroidManifest.xml:2:1-131
+	package
+		ADDED from /Users/siragam/Documents/AndroidApp/MyAppSQLDelight/shared/src/androidMain/AndroidManifest.xml:2:70-129
+		INJECTED from /Users/siragam/Documents/AndroidApp/MyAppSQLDelight/shared/src/androidMain/AndroidManifest.xml
+		INJECTED from /Users/siragam/Documents/AndroidApp/MyAppSQLDelight/shared/src/androidMain/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/siragam/Documents/AndroidApp/MyAppSQLDelight/shared/src/androidMain/AndroidManifest.xml
+		ADDED from /Users/siragam/Documents/AndroidApp/MyAppSQLDelight/shared/src/androidMain/AndroidManifest.xml:2:1-131
+		INJECTED from /Users/siragam/Documents/AndroidApp/MyAppSQLDelight/shared/src/androidMain/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/siragam/Documents/AndroidApp/MyAppSQLDelight/shared/src/androidMain/AndroidManifest.xml
+		ADDED from /Users/siragam/Documents/AndroidApp/MyAppSQLDelight/shared/src/androidMain/AndroidManifest.xml:2:1-131
+		INJECTED from /Users/siragam/Documents/AndroidApp/MyAppSQLDelight/shared/src/androidMain/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/siragam/Documents/AndroidApp/MyAppSQLDelight/shared/src/androidMain/AndroidManifest.xml:2:11-69
+uses-sdk
+INJECTED from /Users/siragam/Documents/AndroidApp/MyAppSQLDelight/shared/src/androidMain/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/siragam/Documents/AndroidApp/MyAppSQLDelight/shared/src/androidMain/AndroidManifest.xml
+INJECTED from /Users/siragam/Documents/AndroidApp/MyAppSQLDelight/shared/src/androidMain/AndroidManifest.xml
+INJECTED from /Users/siragam/Documents/AndroidApp/MyAppSQLDelight/shared/src/androidMain/AndroidManifest.xml
+INJECTED from /Users/siragam/Documents/AndroidApp/MyAppSQLDelight/shared/src/androidMain/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/siragam/Documents/AndroidApp/MyAppSQLDelight/shared/src/androidMain/AndroidManifest.xml
+		ADDED from /Users/siragam/Documents/AndroidApp/MyAppSQLDelight/shared/src/androidMain/AndroidManifest.xml
+		INJECTED from /Users/siragam/Documents/AndroidApp/MyAppSQLDelight/shared/src/androidMain/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/siragam/Documents/AndroidApp/MyAppSQLDelight/shared/src/androidMain/AndroidManifest.xml
+		ADDED from /Users/siragam/Documents/AndroidApp/MyAppSQLDelight/shared/src/androidMain/AndroidManifest.xml
+		INJECTED from /Users/siragam/Documents/AndroidApp/MyAppSQLDelight/shared/src/androidMain/AndroidManifest.xml

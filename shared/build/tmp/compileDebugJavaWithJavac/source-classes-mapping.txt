@@ -1,0 +1,2 @@
+com/jetbrains/handson/mpp/myappsqldelight/android/BuildConfig.java
+ com.jetbrains.handson.mpp.myappsqldelight.android.BuildConfig

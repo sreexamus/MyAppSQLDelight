@@ -1,0 +1,165 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/siragam/Documents/AndroidApp/MyAppSQLDelight/androidApp/src/main/AndroidManifest.xml:2:1-17:12
+INJECTED from /Users/siragam/Documents/AndroidApp/MyAppSQLDelight/androidApp/src/main/AndroidManifest.xml:2:1-17:12
+INJECTED from /Users/siragam/Documents/AndroidApp/MyAppSQLDelight/androidApp/src/main/AndroidManifest.xml:2:1-17:12
+INJECTED from /Users/siragam/Documents/AndroidApp/MyAppSQLDelight/androidApp/src/main/AndroidManifest.xml:2:1-17:12
+MERGED from [:shared] /Users/siragam/Documents/AndroidApp/MyAppSQLDelight/shared/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [com.squareup.sqldelight:android-driver:1.4.4] /Users/siragam/.gradle/caches/transforms-2/files-2.1/a0d869fff65a9b65cddfe888bc17011a/android-driver-1.4.4/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.material:material:1.2.0] /Users/siragam/.gradle/caches/transforms-2/files-2.1/0db79cd573760091bc37ea676e4e5dcf/material-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/siragam/.gradle/caches/transforms-2/files-2.1/c4e61b79d308b58f88f289ac4d3a6df5/appcompat-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/siragam/.gradle/caches/transforms-2/files-2.1/b60061ecf3a679254d72d497c70bc463/constraintlayout-1.1.3/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/siragam/.gradle/caches/transforms-2/files-2.1/4f498c577022c27ae27ca9c2960a576a/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/siragam/.gradle/caches/transforms-2/files-2.1/8c73cd1336c83de3a2411c8f8baad6e7/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/siragam/.gradle/caches/transforms-2/files-2.1/cd6b4e76180cb78fc85b305504e9c6a1/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/siragam/.gradle/caches/transforms-2/files-2.1/d1e91e467f29922de312bec90e36a4e8/appcompat-resources-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/siragam/.gradle/caches/transforms-2/files-2.1/41840fe547e414217fe354386355edcf/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/siragam/.gradle/caches/transforms-2/files-2.1/f5b866065c15350510804a331e0a32ef/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/siragam/.gradle/caches/transforms-2/files-2.1/62c1d1388edddcdcafde2073cba40df5/viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/siragam/.gradle/caches/transforms-2/files-2.1/194e66fb2ec3de6d04d65d0245f6c672/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/siragam/.gradle/caches/transforms-2/files-2.1/400e1bbde66abe217022bf2fa1530fc2/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/siragam/.gradle/caches/transforms-2/files-2.1/3ac2cef4818bca3780354aa22e4c1a41/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/siragam/.gradle/caches/transforms-2/files-2.1/650463080d54326766ce6e8509b31cbf/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/siragam/.gradle/caches/transforms-2/files-2.1/a2cf021fc6990ad59c1bc1827760a19c/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/siragam/.gradle/caches/transforms-2/files-2.1/ab056733ddf9c545436b618f8944977e/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /Users/siragam/.gradle/caches/transforms-2/files-2.1/aeefaba48b14622970b4eca1abb2193d/activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.3.0] /Users/siragam/.gradle/caches/transforms-2/files-2.1/2ccc4cad58ea77671fc7f30c1458deeb/core-1.3.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/siragam/.gradle/caches/transforms-2/files-2.1/355ec4f6c18503cdd89cdcb50084938b/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] /Users/siragam/.gradle/caches/transforms-2/files-2.1/624c47cdf2d824821f7d65b14ed0eb02/sqlite-framework-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.sqlite:sqlite:2.1.0] /Users/siragam/.gradle/caches/transforms-2/files-2.1/2bd5968ebb3026123183de84d03fb167/sqlite-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/siragam/.gradle/caches/transforms-2/files-2.1/a69df08be32aa1b5338287629f8c8c71/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/siragam/.gradle/caches/transforms-2/files-2.1/c10d8e51cc37374ceeb1a5691a5398c6/lifecycle-runtime-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/siragam/.gradle/caches/transforms-2/files-2.1/bd51ac1fb46c94e07067216646c1348c/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/siragam/.gradle/caches/transforms-2/files-2.1/c649eb4f83a30b1f12ea3e156256044c/savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/siragam/.gradle/caches/transforms-2/files-2.1/c6a726d206346b207d1e94d332e81270/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/siragam/.gradle/caches/transforms-2/files-2.1/e37dae21a93cfc5f8301a5e5254311e9/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/siragam/.gradle/caches/transforms-2/files-2.1/40bd1cabbf4654721bf46b9cd2e03d8b/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/siragam/.gradle/caches/transforms-2/files-2.1/d80f58fc66b25cddf8b1cc100e60e791/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/siragam/.gradle/caches/transforms-2/files-2.1/1bc43ace1bf73a0e1093f5ed5e13aef3/annotation-experimental-1.0.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/siragam/Documents/AndroidApp/MyAppSQLDelight/androidApp/src/main/AndroidManifest.xml:2:1-17:12
+INJECTED from /Users/siragam/Documents/AndroidApp/MyAppSQLDelight/androidApp/src/main/AndroidManifest.xml:2:1-17:12
+INJECTED from /Users/siragam/Documents/AndroidApp/MyAppSQLDelight/androidApp/src/main/AndroidManifest.xml:2:1-17:12
+	package
+		ADDED from /Users/siragam/Documents/AndroidApp/MyAppSQLDelight/androidApp/src/main/AndroidManifest.xml:2:70-132
+		INJECTED from /Users/siragam/Documents/AndroidApp/MyAppSQLDelight/androidApp/src/main/AndroidManifest.xml
+		INJECTED from /Users/siragam/Documents/AndroidApp/MyAppSQLDelight/androidApp/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/siragam/Documents/AndroidApp/MyAppSQLDelight/androidApp/src/main/AndroidManifest.xml
+		ADDED from /Users/siragam/Documents/AndroidApp/MyAppSQLDelight/androidApp/src/main/AndroidManifest.xml:2:1-17:12
+		INJECTED from /Users/siragam/Documents/AndroidApp/MyAppSQLDelight/androidApp/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/siragam/Documents/AndroidApp/MyAppSQLDelight/androidApp/src/main/AndroidManifest.xml
+		ADDED from /Users/siragam/Documents/AndroidApp/MyAppSQLDelight/androidApp/src/main/AndroidManifest.xml:2:1-17:12
+		INJECTED from /Users/siragam/Documents/AndroidApp/MyAppSQLDelight/androidApp/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/siragam/Documents/AndroidApp/MyAppSQLDelight/androidApp/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/siragam/Documents/AndroidApp/MyAppSQLDelight/androidApp/src/main/AndroidManifest.xml:4:5-15:19
+MERGED from [com.google.android.material:material:1.2.0] /Users/siragam/.gradle/caches/transforms-2/files-2.1/0db79cd573760091bc37ea676e4e5dcf/material-1.2.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.2.0] /Users/siragam/.gradle/caches/transforms-2/files-2.1/0db79cd573760091bc37ea676e4e5dcf/material-1.2.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/siragam/.gradle/caches/transforms-2/files-2.1/b60061ecf3a679254d72d497c70bc463/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/siragam/.gradle/caches/transforms-2/files-2.1/b60061ecf3a679254d72d497c70bc463/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.3.0] /Users/siragam/.gradle/caches/transforms-2/files-2.1/2ccc4cad58ea77671fc7f30c1458deeb/core-1.3.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.0] /Users/siragam/.gradle/caches/transforms-2/files-2.1/2ccc4cad58ea77671fc7f30c1458deeb/core-1.3.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/siragam/.gradle/caches/transforms-2/files-2.1/a69df08be32aa1b5338287629f8c8c71/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/siragam/.gradle/caches/transforms-2/files-2.1/a69df08be32aa1b5338287629f8c8c71/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.0] /Users/siragam/.gradle/caches/transforms-2/files-2.1/2ccc4cad58ea77671fc7f30c1458deeb/core-1.3.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/siragam/Documents/AndroidApp/MyAppSQLDelight/androidApp/src/main/AndroidManifest.xml:6:13-39
+	android:allowBackup
+		ADDED from /Users/siragam/Documents/AndroidApp/MyAppSQLDelight/androidApp/src/main/AndroidManifest.xml:5:13-40
+	android:theme
+		ADDED from /Users/siragam/Documents/AndroidApp/MyAppSQLDelight/androidApp/src/main/AndroidManifest.xml:7:13-44
+activity#com.jetbrains.handson.mpp.myappsqldelight.androidApp.MainActivity
+ADDED from /Users/siragam/Documents/AndroidApp/MyAppSQLDelight/androidApp/src/main/AndroidManifest.xml:8:9-14:20
+	android:name
+		ADDED from /Users/siragam/Documents/AndroidApp/MyAppSQLDelight/androidApp/src/main/AndroidManifest.xml:8:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/siragam/Documents/AndroidApp/MyAppSQLDelight/androidApp/src/main/AndroidManifest.xml:9:13-13:29
+action#android.intent.action.MAIN
+ADDED from /Users/siragam/Documents/AndroidApp/MyAppSQLDelight/androidApp/src/main/AndroidManifest.xml:10:17-68
+	android:name
+		ADDED from /Users/siragam/Documents/AndroidApp/MyAppSQLDelight/androidApp/src/main/AndroidManifest.xml:10:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/siragam/Documents/AndroidApp/MyAppSQLDelight/androidApp/src/main/AndroidManifest.xml:12:17-76
+	android:name
+		ADDED from /Users/siragam/Documents/AndroidApp/MyAppSQLDelight/androidApp/src/main/AndroidManifest.xml:12:27-74
+uses-sdk
+INJECTED from /Users/siragam/Documents/AndroidApp/MyAppSQLDelight/androidApp/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/siragam/Documents/AndroidApp/MyAppSQLDelight/androidApp/src/main/AndroidManifest.xml
+INJECTED from /Users/siragam/Documents/AndroidApp/MyAppSQLDelight/androidApp/src/main/AndroidManifest.xml
+MERGED from [:shared] /Users/siragam/Documents/AndroidApp/MyAppSQLDelight/shared/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:shared] /Users/siragam/Documents/AndroidApp/MyAppSQLDelight/shared/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.squareup.sqldelight:android-driver:1.4.4] /Users/siragam/.gradle/caches/transforms-2/files-2.1/a0d869fff65a9b65cddfe888bc17011a/android-driver-1.4.4/AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.sqldelight:android-driver:1.4.4] /Users/siragam/.gradle/caches/transforms-2/files-2.1/a0d869fff65a9b65cddfe888bc17011a/android-driver-1.4.4/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.material:material:1.2.0] /Users/siragam/.gradle/caches/transforms-2/files-2.1/0db79cd573760091bc37ea676e4e5dcf/material-1.2.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.2.0] /Users/siragam/.gradle/caches/transforms-2/files-2.1/0db79cd573760091bc37ea676e4e5dcf/material-1.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/siragam/.gradle/caches/transforms-2/files-2.1/c4e61b79d308b58f88f289ac4d3a6df5/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/siragam/.gradle/caches/transforms-2/files-2.1/c4e61b79d308b58f88f289ac4d3a6df5/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/siragam/.gradle/caches/transforms-2/files-2.1/b60061ecf3a679254d72d497c70bc463/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/siragam/.gradle/caches/transforms-2/files-2.1/b60061ecf3a679254d72d497c70bc463/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/siragam/.gradle/caches/transforms-2/files-2.1/4f498c577022c27ae27ca9c2960a576a/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/siragam/.gradle/caches/transforms-2/files-2.1/4f498c577022c27ae27ca9c2960a576a/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/siragam/.gradle/caches/transforms-2/files-2.1/8c73cd1336c83de3a2411c8f8baad6e7/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/siragam/.gradle/caches/transforms-2/files-2.1/8c73cd1336c83de3a2411c8f8baad6e7/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/siragam/.gradle/caches/transforms-2/files-2.1/cd6b4e76180cb78fc85b305504e9c6a1/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/siragam/.gradle/caches/transforms-2/files-2.1/cd6b4e76180cb78fc85b305504e9c6a1/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/siragam/.gradle/caches/transforms-2/files-2.1/d1e91e467f29922de312bec90e36a4e8/appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/siragam/.gradle/caches/transforms-2/files-2.1/d1e91e467f29922de312bec90e36a4e8/appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/siragam/.gradle/caches/transforms-2/files-2.1/41840fe547e414217fe354386355edcf/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/siragam/.gradle/caches/transforms-2/files-2.1/41840fe547e414217fe354386355edcf/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/siragam/.gradle/caches/transforms-2/files-2.1/f5b866065c15350510804a331e0a32ef/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/siragam/.gradle/caches/transforms-2/files-2.1/f5b866065c15350510804a331e0a32ef/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/siragam/.gradle/caches/transforms-2/files-2.1/62c1d1388edddcdcafde2073cba40df5/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/siragam/.gradle/caches/transforms-2/files-2.1/62c1d1388edddcdcafde2073cba40df5/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/siragam/.gradle/caches/transforms-2/files-2.1/194e66fb2ec3de6d04d65d0245f6c672/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/siragam/.gradle/caches/transforms-2/files-2.1/194e66fb2ec3de6d04d65d0245f6c672/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/siragam/.gradle/caches/transforms-2/files-2.1/400e1bbde66abe217022bf2fa1530fc2/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/siragam/.gradle/caches/transforms-2/files-2.1/400e1bbde66abe217022bf2fa1530fc2/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/siragam/.gradle/caches/transforms-2/files-2.1/3ac2cef4818bca3780354aa22e4c1a41/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/siragam/.gradle/caches/transforms-2/files-2.1/3ac2cef4818bca3780354aa22e4c1a41/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/siragam/.gradle/caches/transforms-2/files-2.1/650463080d54326766ce6e8509b31cbf/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/siragam/.gradle/caches/transforms-2/files-2.1/650463080d54326766ce6e8509b31cbf/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/siragam/.gradle/caches/transforms-2/files-2.1/a2cf021fc6990ad59c1bc1827760a19c/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/siragam/.gradle/caches/transforms-2/files-2.1/a2cf021fc6990ad59c1bc1827760a19c/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/siragam/.gradle/caches/transforms-2/files-2.1/ab056733ddf9c545436b618f8944977e/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/siragam/.gradle/caches/transforms-2/files-2.1/ab056733ddf9c545436b618f8944977e/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /Users/siragam/.gradle/caches/transforms-2/files-2.1/aeefaba48b14622970b4eca1abb2193d/activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /Users/siragam/.gradle/caches/transforms-2/files-2.1/aeefaba48b14622970b4eca1abb2193d/activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.0] /Users/siragam/.gradle/caches/transforms-2/files-2.1/2ccc4cad58ea77671fc7f30c1458deeb/core-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.0] /Users/siragam/.gradle/caches/transforms-2/files-2.1/2ccc4cad58ea77671fc7f30c1458deeb/core-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/siragam/.gradle/caches/transforms-2/files-2.1/355ec4f6c18503cdd89cdcb50084938b/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/siragam/.gradle/caches/transforms-2/files-2.1/355ec4f6c18503cdd89cdcb50084938b/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] /Users/siragam/.gradle/caches/transforms-2/files-2.1/624c47cdf2d824821f7d65b14ed0eb02/sqlite-framework-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] /Users/siragam/.gradle/caches/transforms-2/files-2.1/624c47cdf2d824821f7d65b14ed0eb02/sqlite-framework-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.1.0] /Users/siragam/.gradle/caches/transforms-2/files-2.1/2bd5968ebb3026123183de84d03fb167/sqlite-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.1.0] /Users/siragam/.gradle/caches/transforms-2/files-2.1/2bd5968ebb3026123183de84d03fb167/sqlite-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/siragam/.gradle/caches/transforms-2/files-2.1/a69df08be32aa1b5338287629f8c8c71/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/siragam/.gradle/caches/transforms-2/files-2.1/a69df08be32aa1b5338287629f8c8c71/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/siragam/.gradle/caches/transforms-2/files-2.1/c10d8e51cc37374ceeb1a5691a5398c6/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/siragam/.gradle/caches/transforms-2/files-2.1/c10d8e51cc37374ceeb1a5691a5398c6/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/siragam/.gradle/caches/transforms-2/files-2.1/bd51ac1fb46c94e07067216646c1348c/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/siragam/.gradle/caches/transforms-2/files-2.1/bd51ac1fb46c94e07067216646c1348c/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/siragam/.gradle/caches/transforms-2/files-2.1/c649eb4f83a30b1f12ea3e156256044c/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/siragam/.gradle/caches/transforms-2/files-2.1/c649eb4f83a30b1f12ea3e156256044c/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/siragam/.gradle/caches/transforms-2/files-2.1/c6a726d206346b207d1e94d332e81270/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/siragam/.gradle/caches/transforms-2/files-2.1/c6a726d206346b207d1e94d332e81270/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/siragam/.gradle/caches/transforms-2/files-2.1/e37dae21a93cfc5f8301a5e5254311e9/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/siragam/.gradle/caches/transforms-2/files-2.1/e37dae21a93cfc5f8301a5e5254311e9/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/siragam/.gradle/caches/transforms-2/files-2.1/40bd1cabbf4654721bf46b9cd2e03d8b/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/siragam/.gradle/caches/transforms-2/files-2.1/40bd1cabbf4654721bf46b9cd2e03d8b/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/siragam/.gradle/caches/transforms-2/files-2.1/d80f58fc66b25cddf8b1cc100e60e791/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/siragam/.gradle/caches/transforms-2/files-2.1/d80f58fc66b25cddf8b1cc100e60e791/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/siragam/.gradle/caches/transforms-2/files-2.1/1bc43ace1bf73a0e1093f5ed5e13aef3/annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/siragam/.gradle/caches/transforms-2/files-2.1/1bc43ace1bf73a0e1093f5ed5e13aef3/annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/siragam/Documents/AndroidApp/MyAppSQLDelight/androidApp/src/main/AndroidManifest.xml
+INJECTED from /Users/siragam/Documents/AndroidApp/MyAppSQLDelight/androidApp/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/siragam/Documents/AndroidApp/MyAppSQLDelight/androidApp/src/main/AndroidManifest.xml
+		ADDED from /Users/siragam/Documents/AndroidApp/MyAppSQLDelight/androidApp/src/main/AndroidManifest.xml
+		INJECTED from /Users/siragam/Documents/AndroidApp/MyAppSQLDelight/androidApp/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/siragam/Documents/AndroidApp/MyAppSQLDelight/androidApp/src/main/AndroidManifest.xml
+		ADDED from /Users/siragam/Documents/AndroidApp/MyAppSQLDelight/androidApp/src/main/AndroidManifest.xml
+		INJECTED from /Users/siragam/Documents/AndroidApp/MyAppSQLDelight/androidApp/src/main/AndroidManifest.xml
